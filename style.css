@@ -4,5 +4,11 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: small;
     background-color: aqua;
-    color: rgb(41, 35, 29);
+    color: #29231d;
+}
+
+h1{
+    background-color: yellow;
+    color: #29231d;
+    
 }
